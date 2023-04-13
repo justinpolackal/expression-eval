@@ -4,8 +4,11 @@
 - Supports bracketed expressions
  
 Implements a Stack class using dque
+
 Implements a Lexer class that performs tokenization
+
 Postfix conversion is performed and the postfix expression is evaluated
+
 
 Example usage
 ```
